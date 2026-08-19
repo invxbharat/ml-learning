@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "department": "Engineering",
+    "salary": 85000,
+    "age": 30,
+    "city": "Ahmedabad"
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "department": "Sales",
+    "salary": 65000,
+    "age": 28,
+    "city": "Mumbai"
+  },
+  {
+    "id": 3,
+    "name": "Charlie",
+    "department": "Engineering",
+    "salary": 92000,
+    "age": 35,
+    "city": "Bangalore"
+  },
+  {
+    "id": 4,
+    "name": "Diana",
+    "department": "HR",
+    "salary": 70000,
+    "age": 31,
+    "city": "Delhi"
+  },
+  {
+    "id": 5,
+    "name": "Ethan",
+    "department": "Marketing",
+    "salary": 75000,
+    "age": 29,
+    "city": "Pune"
+  }
+]

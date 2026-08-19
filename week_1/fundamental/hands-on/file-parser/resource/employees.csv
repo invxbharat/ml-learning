@@ -1,0 +1,11 @@
+id,name,department,salary,age,city
+1,Alice,Engineering,85000,30,Ahmedabad
+2,Bob,Sales,65000,28,Mumbai
+3,Charlie,Engineering,92000,35,Bangalore
+4,Diana,HR,70000,31,Delhi
+5,Ethan,Marketing,75000,29,Pune
+6,Fiona,Engineering,88000,32,Ahmedabad
+7,George,Sales,62000,27,Mumbai
+8,Hannah,HR,72000,34,Delhi
+9,Ian,Marketing,78000,30,Pune
+10,Julia,Engineering,95000,36,Bangalore
